@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/prismarine_crystals"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/ore_pieces/coal_pieces"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/ore_pieces/tin_pieces"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/ore_pieces/copper_pieces"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/ore_pieces/iron_pieces"},
+        { "predicate": {"custom_model_data": 5}, "model": "item/ore_pieces/steel_pieces"},
+        { "predicate": {"custom_model_data": 6}, "model": "item/ore_pieces/branite_pieces"},
+        { "predicate": {"custom_model_data": 7}, "model": "item/ore_pieces/molmek_pieces"},
+        { "predicate": {"custom_model_data": 8}, "model": "item/ore_pieces/endos_pieces"},
+        { "predicate": {"custom_model_data": 9}, "model": "item/ore_pieces/diamond_pieces"}
+    ]
+}

@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/coal_pieces"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1.25, 2],
+			"scale": [0.31641, 0.31641, 0.31641]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1.25, 2],
+			"scale": [0.31641, 0.31641, 0.31641]
+		}
+	}
+}

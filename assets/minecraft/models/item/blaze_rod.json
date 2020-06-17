@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/blaze_rod"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/staffs/chaotic_staff"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/staffs/nature_staff"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/staffs/revenant_staff"}
+    ]
+}

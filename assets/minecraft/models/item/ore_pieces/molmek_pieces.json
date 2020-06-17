@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/molmek_pieces"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1, 1.25],
+			"scale": [0.22656, 0.22656, 0.22656]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1, 1.25],
+			"scale": [0.22656, 0.22656, 0.22656]
+		},
+		"firstperson_righthand": {
+			"rotation": [-28, 0, 0],
+			"translation": [2.25, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-28, 0, 0],
+			"translation": [2.25, 0, 0]
+		}
+	}
+}

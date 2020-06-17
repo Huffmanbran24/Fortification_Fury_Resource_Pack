@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_ingot"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 1}, "model": "item/shields/wooden_shield"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/shields/bronze_shield"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/shields/iron_shield"},
+        { "predicate": {"custom_model_data": 3}, "model": "item/shields/steel_shield"},
+        { "predicate": {"custom_model_data": 4}, "model": "item/shields/branite_shield"},
+        { "predicate": {"custom_model_data": 5}, "model": "item/shields/molmek_shield"},
+        { "predicate": {"custom_model_data": 6}, "model": "item/shields/endos_shield"},
+        { "predicate": {"custom_model_data": 7}, "model": "item/shields/cryptic_shield"},
+        { "predicate": {"custom_model_data": 8}, "model": "item/shields/cryptic_shield"}
+    ]
+}
